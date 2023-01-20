@@ -1,2 +1,2 @@
 # .github
-Repository for GitHub public profile.
+Repository for public GitHub profile.
