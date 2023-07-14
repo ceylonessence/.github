@@ -1,1 +1,3 @@
-# Official repository for the GitHub public profile.
+# Ceylon Essence
+
+The official repository for GitHub organization profile configurations.
