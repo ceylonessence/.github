@@ -1,3 +1,4 @@
-# Ceylon Essence
+# Ceylon Essence Industries (PVT) LTD.
 
-The official repository for GitHub organization profile configurations.
+The official repository for GitHub organization profile.
+
